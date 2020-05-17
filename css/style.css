@@ -1,0 +1,114 @@
+			/********************  body **********************/
+
+body
+{
+	width:100%;
+	padding:0;
+	margin:0;
+	font:13px/25px arial;
+	color:#484848;
+	font-style:italic;
+	background-image: url(../image/bg-final.jpg);
+    background-size: 100%;
+}
+
+			/********************  header **********************/
+
+header
+{
+	width:100%;
+	background:url(../image/header-bg.jpg);
+	border-bottom:1px solid #fff;
+}
+
+			/********************  logo **********************/
+
+h1{
+	display:inline-block;
+	z-index:2;
+	margin-left:10px;
+	margin-bottom:20px;
+	margin-top:16px;
+	position:relative;
+	float:left;
+}
+
+		/********************  navigation bar **********************/
+
+nav{
+	display:inline-block;
+	z-index:2;
+	position:relative;
+	float:right;
+	margin-right:550px;
+	margin-top:-10px;
+}
+
+ul{
+	margin:0;
+	padding:0;
+	list-style:none;
+}
+
+ul.menu{
+	margin:28px 0 0 0;
+	display:inline-block;
+}
+ul.menu li{
+	float:left;
+	line-height:30px;
+	margin:0 0 0 48px;
+}
+ul.menu li a{
+	font-size:25px;
+	line-height:30px;
+	color:#fff;
+	display:inline-block;
+	font-family:bilbo;
+}
+ul.menu li a:hover, ul.menu li.current a
+{
+	color:#ff9000;
+}
+
+/**************login***********/
+
+.loginbox{
+    width: 510px;
+    height: 720px;
+    background: #87CEEB;
+    color: #fff;
+    top:55%;
+    left:80.5%;
+    position: absolute;
+    transform: translate(-50%,-50%);
+    box-sizing: border-box;
+}
+
+.avatar{
+    width: 250px;
+    height: 250px;
+    margin-left: 120px;
+}
+
+.boxes{
+    width: 80%;
+    height: 50px;
+    margin-left: 50px;
+    font-family: cursive;
+}
+
+.signup{
+    font-style: italic;
+    font-family: cursive;
+    font-size: 30px;
+    margin-left: 50px;
+}
+
+
+
+
+
+
+
+

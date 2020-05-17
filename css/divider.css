@@ -1,0 +1,14 @@
+#sectionA{
+    float: left;
+    width: 50%;
+}
+
+#sectionB{
+    float: left;
+    width: 50%;
+}
+
+#sectionC{
+    clear: both;
+    width: 100%;
+}

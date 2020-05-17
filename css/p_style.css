@@ -1,0 +1,181 @@
+body
+{
+	width:100%;
+	padding:0;
+	margin:0;
+	font:13px/25px arial;
+	color:#484848;
+	font-style:italic;
+    background:#484848;
+    background-size: 100%;
+}
+
+.data{
+    color: aliceblue;
+    font-family: cursive;
+    font-style: italic;
+}
+
+.userteam{
+    border-color: blue;
+    margin-left: 1000px;
+    margin-bottom: 500px;
+}
+
+.fbground{
+    width: 20%;
+    margin-top: 150px;
+    margin-left: 500px;
+    background: #fff;
+}
+
+.gk{
+    width: 3%;
+    margin-left: -155px;
+    margin-bottom: 20px;
+}
+
+.lb{
+    width: 3%;
+    margin-left: -140px;
+    margin-bottom: 90px;
+}
+
+.lcb{
+    width: 3%;
+    margin-left: 10px;
+    margin-bottom: 70px;
+}
+
+.rcb{
+    width: 3%;
+    margin-left: 40px;
+    margin-bottom: 70px;
+}
+
+.rb{
+    width: 3%;
+    margin-left: 10px;
+    margin-bottom: 90px;
+}
+
+.lw{
+    width: 3%;
+    margin-left: -240px;
+    margin-bottom: 240px;
+}
+
+.lcm{
+    width: 3%;
+    margin-left: 7px;
+    margin-bottom: 200px;
+}
+
+.rcm{
+    width: 3%;
+    margin-left: 43px;
+    margin-bottom: 200px;
+}
+
+.rw{
+    width: 3%;
+    margin-left: 9px;
+    margin-bottom: 240px;
+}
+
+.ls{
+    width: 3%;
+    margin-left: -185px;
+    margin-bottom: 320px;
+}
+
+.rs{
+    width: 3%;
+    margin-left: 45px;
+    margin-bottom: 320px;
+}
+
+.alert{
+    font-style: italic;
+    font-family: cursive;
+    font-size: 30px;
+    margin-left: 50px;
+    color: darkorange;
+    visibility: visible;
+}
+
+			/********************  logo **********************/
+
+h1{
+	display:inline-block;
+	z-index:2;
+	margin-left:10px;
+	margin-bottom:20px;
+	margin-top:16px;
+	position:relative;
+	float:left;
+}
+
+		/********************  navigation bar **********************/
+
+nav{
+	display:inline-block;
+	z-index:2;
+	position:relative;
+	float:right;
+	margin-right:550px;
+	margin-top:-10px;
+}
+
+ul{
+	margin:0;
+	padding:0;
+	list-style:none;
+}
+
+ul.menu{
+	margin:28px 0 0 0;
+	display:inline-block;
+}
+ul.menu li{
+	float:left;
+	line-height:30px;
+	margin:0 0 0 48px;
+}
+ul.menu li a{
+	font-size:25px;
+	line-height:30px;
+	color:#fff;
+	display:inline-block;
+	font-family:bilbo;
+}
+ul.menu li a:hover, ul.menu li.current a
+{
+	color:#ff9000;
+}
+
+.logout{
+    font-style: italic;
+    font-family: cursive;
+    font-size: 20px;
+    color: #ff9000;
+    background: #484848;
+    margin-top: -20px;
+    margin-left: 1100px;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
